@@ -1,1 +1,3 @@
-console.log("hello world");
+let main = (divId) => {
+  console.log(divId);
+};
