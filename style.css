@@ -75,6 +75,11 @@ body {
 .parent div {
   border: gray solid 2px;
   cursor: pointer;
+  display: -ms-grid;
+  display: grid;
+  place-content: center;
+  color: #6f00ff;
+  font-size: 15vh;
 }
 
 .div1 {

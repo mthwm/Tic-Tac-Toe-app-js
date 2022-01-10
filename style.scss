@@ -68,6 +68,10 @@ body {
   div {
     border: rgb(128, 128, 128) solid 2px;
     cursor: pointer;
+    display: grid;
+    place-content: center;
+    color: #6f00ff;
+    font-size: 15vh;
   }
 }
 
